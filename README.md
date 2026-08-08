@@ -11,6 +11,13 @@ This repositori conatins my Data Structure and Algorithms practice in C++.
 - nCr (Binomial Coefficient)
 - Prime Number in Range
 - Fibonacci Series
+- Decimal to Binary
+- Binary to Decimal
+- Bitwise Operators
+- 2's Complement of negative decimal
+- check power of 2 without loop(using bit operator)
+- reverse an Integer
+
 
 ## Language
 - C++

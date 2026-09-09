@@ -17,6 +17,8 @@ This repositori conatins my Data Structure and Algorithms practice in C++.
 - 2's Complement of negative decimal
 - check power of 2 without loop(using bit operator)
 - reverse an Integer
+- max and min in given Array
+- Linear search
 
 
 ## Language
